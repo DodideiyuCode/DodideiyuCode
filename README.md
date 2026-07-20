@@ -1,76 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:312e81,70:4c1d95,100:7c3aed&height=220&section=header&text=DodideiyuCode&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FACC15,100:111111&height=220&section=header&text=DodideiyuCode&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer;Roblox+Developer;Lua+Developer;Frontend+%26+Backend+Developer;Building+Modern+Digital+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer;Roblox+Developer;Lua+%2F+Luau+Developer;Frontend+%26+Backend+Developer"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Developer-Software_Development-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Specialty-Bots_%26_Roblox-6366F1?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Brazil-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer-Software_Development-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Specialty-Bots_%26_Roblox-111111?style=for-the-badge&logo=lua&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Location-Brazil-111111?style=for-the-badge&logo=googlemaps&logoColor=FACC15"/>
 
 <br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-FACC15?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FACC15"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=FACC15"/>
 </a>
 
 <a href="https://github.com/DodideiyuCode">
-<img src="https://img.shields.io/badge/GitHub-DodideiyuCode-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DodideiyuCode-111111?style=for-the-badge&logo=github&logoColor=FACC15"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DodideiyuCode&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/DodideiyuCode?style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/DodideiyuCode?style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=DodideiyuCode&style=for-the-badge&color=FACC15"/>
+
+<img src="https://img.shields.io/github/followers/DodideiyuCode?style=for-the-badge&color=111111"/>
+
+<img src="https://img.shields.io/github/stars/DodideiyuCode?style=for-the-badge&color=111111"/>
 
 </div>
 
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a developer focused on creating bots, Roblox experiences, and modern software solutions.
+Developer focused on creating reliable digital systems, automation solutions and interactive experiences.
 
-My main areas of development:
+My main areas:
 
-- 🤖 Discord Bot Development
-- 🎮 Roblox Development
-- 🌐 Frontend Development
-- ⚙️ Backend Development
-- 🧩 Automation Systems
+- Discord Bot Development
+- Roblox Development
+- Lua / Luau Programming
+- Frontend Development
+- Backend Development
 
 Experience:
 
-- 🟣 2 years developing with **Lua / Luau**
-- 🔵 1 year developing **Frontend applications**
-- 🟢 1 year developing **Backend systems**
+- 2 years developing with Lua / Luau
+- 1 year developing Frontend applications
+- 1 year developing Backend systems
 
-I focus on building efficient, scalable, and user-focused projects with clean architecture and modern development practices.
+Focused on writing clean code, building scalable projects and continuously improving development skills.
 
 
-### Open To
+## Open To
 
 - Bot development projects
-- Roblox systems and experiences
-- Frontend and backend collaborations
-- Open source opportunities
+- Roblox development opportunities
+- Full stack collaborations
+- Open source projects
 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 
 ## Languages
@@ -91,7 +93,7 @@ I focus on building efficient, scalable, and user-focused projects with clean ar
 </div>
 
 
-## Backend & Databases
+## Backend
 
 <div align="center">
 
@@ -100,7 +102,7 @@ I focus on building efficient, scalable, and user-focused projects with clean ar
 </div>
 
 
-## Cloud, DevOps & Tooling
+## Tools
 
 <div align="center">
 
@@ -111,85 +113,44 @@ I focus on building efficient, scalable, and user-focused projects with clean ar
 
 ---
 
-# 🤖 AI / ML Expertise
+# AI & Automation
 
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI Development | Learning | Exploring AI tools and integrations |
-| Automation | Advanced | Creating bots and automated systems |
-| Developer Tools | Intermediate | Building utilities to improve workflows |
-| Software Engineering | Intermediate | Applying clean code principles |
+| Area | Level | Details |
+|-|-|-|
+| Automation | Intermediate | Creating systems and workflows |
+| AI Tools | Learning | Exploring AI development tools |
+| Software Development | Intermediate | Building structured applications |
 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Project
 
 
-<details>
+<details open>
 
-<summary><b>🤖 BrVault Bot</b></summary>
+<summary><b>BrVault Bot</b></summary>
 
 <br>
 
-A Discord bot project focused on automation, community management and advanced features.
+A Discord bot project focused on automation, management systems and improving community experiences.
 
 | Category | Details |
 |-|-|
 | Stack | Lua, JavaScript, Discord API |
 | Scale | Designed for Discord communities |
-| Performance | Optimized event-based systems |
-| Security | Permissions and validation systems |
-| Impact | Automation and improved server management |
+| Performance | Event-driven architecture |
+| Security | Permission systems and validations |
+| Impact | Server automation and management |
 | Repository | https://github.com/DodideiyuCode/brvaultbot |
-
-</details>
-
-
-<details>
-
-<summary><b>🍪 CookieLayers</b></summary>
-
-<br>
-
-A development-focused project designed around improving AI workflow efficiency and productivity.
-
-| Category | Details |
-|-|-|
-| Stack | Shell, Automation Tools |
-| Scale | Developer productivity system |
-| Performance | Lightweight workflow optimization |
-| Security | Safe execution practices |
-| Impact | Improved development processes |
-| Repository | https://github.com/DodideiyuCode/CookieLayers |
-
-</details>
-
-
-<details>
-
-<summary><b>⚡ OptimizationLocal</b></summary>
-
-<br>
-
-A Windows optimization project focused on performance improvements and system customization.
-
-| Category | Details |
-|-|-|
-| Stack | PowerShell |
-| Scale | Desktop utility project |
-| Performance | System optimization scripts |
-| Security | Controlled configuration changes |
-| Impact | Better Windows experience |
-| Repository | https://github.com/DodideiyuCode/OptmizationLocal |
 
 </details>
 
 
 ---
 
-# 💼 Experience
+# Experience
 
 
 ## Developer
@@ -199,14 +160,13 @@ A Windows optimization project focused on performance improvements and system cu
 2024 - Present
 
 
-Working on personal projects involving:
+Building personal projects focused on:
 
 - Discord bot systems
-- Roblox scripting
-- Lua development
+- Roblox development
+- Lua scripting
 - Frontend interfaces
-- Backend APIs
-- Automation solutions
+- Backend services
 
 
 Skills:
@@ -216,7 +176,7 @@ Skills:
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 
 <div align="center">
@@ -224,10 +184,10 @@ Skills:
 
 | Recognition | Details |
 |-|-|
-| 🚀 Project Creator | Developed independent software projects |
-| 🎮 Roblox Developer | 2 years creating systems with Lua/Luau |
-| 🤖 Bot Developer | Built Discord automation solutions |
-| 💻 Full Stack Growth | Frontend and backend development experience |
+| Developer | Building independent software projects |
+| Lua Developer | 2 years of Lua/Luau experience |
+| Bot Developer | Creating Discord automation systems |
+| Full Stack Growth | Frontend and Backend experience |
 
 
 </div>
@@ -235,44 +195,36 @@ Skills:
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 
 ## AWS
 
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Learning-111111?style=for-the-badge&logo=amazonaws&logoColor=FACC15"/>
 
 
 ## Oracle
 
-<img src="https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Learning-111111?style=for-the-badge&logo=oracle&logoColor=FACC15"/>
 
 
 ## Cisco
 
-<img src="https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Learning-111111?style=for-the-badge&logo=cisco&logoColor=FACC15"/>
 
 
 ---
 
-# 💻 Coding Profiles
+# Coding Profiles
 
 
 <div align="center">
 
 
 <a href="https://github.com/DodideiyuCode">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
+<img src="https://img.shields.io/badge/GitHub-Profile-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 
@@ -281,22 +233,22 @@ Skills:
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 
 <div align="center">
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DodideiyuCode&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DodideiyuCode&show_icons=true&theme=github_dark&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF"/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DodideiyuCode&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DodideiyuCode&layout=compact&theme=github_dark&hide_border=true&title_color=FACC15&text_color=FFFFFF"/>
 
 
 <br>
 
 
-<img src="https://streak-stats.demolab.com?user=DodideiyuCode&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DodideiyuCode&theme=dark&hide_border=true"/>
 
 
 </div>
@@ -304,68 +256,61 @@ Skills:
 
 ---
 
-# 🏅 GitHub Trophies
+# GitHub Trophies
 
 
 <div align="center">
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=DodideiyuCode&theme=tokyonight&no-frame=true&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DodideiyuCode&theme=darkhub&no-frame=true&column=6"/>
 
 </div>
 
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DodideiyuCode&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DodideiyuCode&theme=github-dark&hide_border=true"/>
 
 </div>
 
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 
 <div align="center">
-
 
 <img src="https://raw.githubusercontent.com/DodideiyuCode/DodideiyuCode/output/github-contribution-grid-snake-dark.svg"/>
 
-
 </div>
 
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 
 ```yaml
 Learning:
-  - Advanced Lua Development
+  - Advanced Lua / Luau
   - Backend Architecture
-  - Modern Frontend Technologies
+  - Modern Frontend Development
 
 Building:
-  - Discord Bots
-  - Roblox Systems
-  - Web Applications
+  - BrVault Bot
+  - Discord Systems
+  - Roblox Projects
 
 Exploring:
-  - Artificial Intelligence
+  - AI Tools
   - Automation
-  - New Developer Tools
+  - Better Software Architecture
 
 Open_To:
   - Collaboration
   - Interesting Projects
-  - Open Source
